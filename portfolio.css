@@ -1,0 +1,20 @@
+body{
+    margin: 0px 100px;
+}
+
+#navigationBar{
+    font-size: 23px;
+    
+}
+#home{
+    margin-left: 1000px;
+}
+
+.block{
+    padding: 20px 20px;
+}
+
+.Section1{
+    background-image: url('Sukuna.jpg');
+    background-position:top;
+}

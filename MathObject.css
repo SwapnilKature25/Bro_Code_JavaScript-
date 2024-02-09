@@ -1,0 +1,35 @@
+
+body{
+
+    padding-top: 3em;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#mybtn{
+    border-radius: 10px;
+    padding: 5px 20px ;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    font-size: 3em;
+    background-color: hsl(34, 76%, 52%);
+    
+}
+
+#mybtn:hover{
+    background-color:hsl(34, 93%, 31%) ;
+}
+
+#label1{
+    align-content: center;
+    font-size: 3em;
+}
+
+#label2{
+    align-content: center;
+    font-size: 3em;
+}
+
+#label3{
+    align-content: center;
+    font-size: 3em;
+}
